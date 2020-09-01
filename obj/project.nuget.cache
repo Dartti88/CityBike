@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrH/adwgvC0dcAA2DvnMCN921oYTZqQNfdgNO5JBTAyYqgWhFNZ86lhoM/pu21dy7g36TZVBrRxte5VGijTmNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dartt\\Dropbox\\Game-api_programmin_course\\Game-api_programmin_course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dartt\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

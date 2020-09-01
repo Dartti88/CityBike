@@ -1,0 +1,13 @@
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Game-api_programmin_course.exe
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Game-api_programmin_course.deps.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Game-api_programmin_course.runtimeconfig.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Game-api_programmin_course.runtimeconfig.dev.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Game-api_programmin_course.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Game-api_programmin_course.pdb
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.csprojAssemblyReference.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.AssemblyInfoInputs.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.AssemblyInfo.cs
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.csproj.CoreCompileInputs.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.pdb
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.genruntimeconfig.cache

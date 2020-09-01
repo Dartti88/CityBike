@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0G0t564sgeLxTYszpYRoWAA6cJ47xfZABOLvRFYOhtVRo7UZdOJwaX8JIzGIfhuryoiX5ELU30hNojPMDY9vIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dartt\\Dropbox\\Game-api_programmin_course\\CityBikes\\CityBikes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dartt\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

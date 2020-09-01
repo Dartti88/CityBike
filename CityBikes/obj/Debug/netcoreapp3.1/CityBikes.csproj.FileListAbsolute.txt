@@ -1,0 +1,15 @@
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\CityBikes.exe
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\CityBikes.deps.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\CityBikes.runtimeconfig.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\CityBikes.runtimeconfig.dev.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\CityBikes.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\CityBikes.pdb
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.csprojAssemblyReference.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.AssemblyInfoInputs.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.AssemblyInfo.cs
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.csproj.CoreCompileInputs.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.pdb
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.genruntimeconfig.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\CityBikes\obj\Debug\netcoreapp3.1\CityBikes.csproj.CopyComplete
