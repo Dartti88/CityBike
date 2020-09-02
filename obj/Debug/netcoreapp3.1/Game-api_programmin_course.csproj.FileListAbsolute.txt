@@ -11,3 +11,5 @@ C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-a
 C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.dll
 C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.pdb
 C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.genruntimeconfig.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\obj\Debug\netcoreapp3.1\Game-api_programmin_course.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\bin\Debug\netcoreapp3.1\Tehtava2.exe
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\bin\Debug\netcoreapp3.1\Tehtava2.deps.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\bin\Debug\netcoreapp3.1\Tehtava2.runtimeconfig.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\bin\Debug\netcoreapp3.1\Tehtava2.runtimeconfig.dev.json
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\bin\Debug\netcoreapp3.1\Tehtava2.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\bin\Debug\netcoreapp3.1\Tehtava2.pdb
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.csprojAssemblyReference.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.AssemblyInfoInputs.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.AssemblyInfo.cs
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.csproj.CoreCompileInputs.cache
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.dll
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.pdb
+C:\Users\Dartt\Dropbox\Game-api_programmin_course\Tehtava2\obj\Debug\netcoreapp3.1\Tehtava2.genruntimeconfig.cache
