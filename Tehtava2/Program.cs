@@ -25,7 +25,7 @@ namespace Tehtava2
                     {
                         Item item = new Item();
                         item.Id = Guid.NewGuid();
-                        Console.WriteLine(item.Id);
+                        //Console.WriteLine(item.Id);
                         item.Level = rand.Next(21);
                         player.Items.Add(item);
                     }
@@ -48,11 +48,64 @@ namespace Tehtava2
                     //Console.WriteLine(FirstItem(player).Level);
                     //Console.WriteLine(FirstItemWithLinq(player).Level);
 
+                    //Test - Teht5
+                    //ProcessEachItem(player, PrintItem);
+
+                    //Test - Teht6
+                    /*
+                    ProcessEachItem(player,
+                        item =>
+                        {
+                            Console.WriteLine(item.Id);
+                            Console.WriteLine(item.Level);
+                        });
+                    */
                 }
                 else
                 {
                     i--;
                 }
+            }
+
+            //Teht 7
+            player_num = 100;
+            List<IPlayer> list_players = new List<IPlayer>();
+
+            for (int i = 0; i < player_num; i++)
+            {
+                IPlayer player = new Player();
+                player.Score = rand.Next(1000);
+                list_players.Add(player);
+            }
+
+            var list_seleceted_players = new IPlayer[10];
+
+            Console.WriteLine("GAME 1");
+
+            List<IPlayer> list_PlayerForAnotherGame = new List<IPlayer>();
+            for (int i = 0; i < player_num; i++)
+            {
+                IPlayer player = new PlayerForAnotherGame();
+                player.Score = rand.Next(1000) + 2000;
+                list_PlayerForAnotherGame.Add(player);
+            }
+
+            Game<IPlayer> next_game_1 = new Game<IPlayer>(list_players);
+            list_seleceted_players = next_game_1.GetTop10Players();
+
+            for (int i = 0; i < list_seleceted_players.Count(); i++)
+            {
+                Console.WriteLine(list_seleceted_players[i].Score);
+            }
+
+            Console.WriteLine("\nGAME 2");
+
+            Game<IPlayer> next_game_2 = new Game<IPlayer>(list_PlayerForAnotherGame);
+            list_seleceted_players = next_game_2.GetTop10Players();
+
+            for (int i = 0; i < list_seleceted_players.Count(); i++)
+            {
+                Console.WriteLine(list_seleceted_players[i].Score);
             }
         }
     }

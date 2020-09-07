@@ -40,5 +40,21 @@ public class ItemSearch
     {
         return player.Items.First();
     }
+
+    public static void ProcessEachItem(Player player, Action<Item> process)
+    {
+        Item[] array = GetItemsWithLinq(player);
+
+        for (int a = 0; a < array.Length; a++)
+        {
+            process(array[a]);
+        }
+    }
+
+    public static void PrintItem(Item item)
+    {
+        Console.WriteLine(item.Id);
+        Console.WriteLine(item.Level);
+    }
 }
 
